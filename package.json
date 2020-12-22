@@ -13,5 +13,18 @@
     "http-errors": "~1.6.3",
     "morgan": "~1.9.1",
     "supervisor": "^0.12.0"
-  }
+  },
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scott-ha/kakao-function.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scott-ha/kakao-function/issues"
+  },
+  "homepage": "https://github.com/scott-ha/kakao-function#readme",
+  "description": ""
 }
